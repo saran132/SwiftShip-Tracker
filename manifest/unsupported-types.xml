@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types><members>*</members><name>ActivationPlatformActvAttr</name></types>
+    <types><members>*</members><name>ActivationPlatformField</name></types>
+    <types><members>*</members><name>ActvPfrmDataConnectorS3</name></types>
+    <types><members>*</members><name>ActvPlatformAdncIdentifier</name></types>
+    <types><members>*</members><name>ActvPlatformFieldValue</name></types>
+    <types><members>*</members><name>ActvPlatformOAuthConnector</name></types>
+    <types><members>*</members><name>CustomObjectBinding</name></types>
+    <types><members>*</members><name>DataCleanRoomProvider</name></types>
+    <types><members>*</members><name>ExperienceContainer</name></types>
+    <types><members>*</members><name>MlModelConnection</name></types>
+    <types><members>*</members><name>MlModelSchema</name></types>
+    <types><members>*</members><name>PlatformEventMigration</name></types>
+    <types><members>*</members><name>StaticDynamicValMapping</name></types>
+    <types><members>*</members><name>TagSet</name></types>
+    <version>67.0</version>
+</Package>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Parcel__c</members>
+        <members>Delivery__c</members>
+        <members>Sender__c</members>
+        <members>Receiver__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Parcel_Details</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Retrieve_Parcel_Details</members>
+        <name>GenAiPromptTemplate</name>
+    </types>
+    <types>
+        <members>SwiftShip_Tracker_v1</members>
+        <name>GenAiPlannerBundle</name>
+    </types>
+    <types>
+        <members>Parcel_Details</members>
+        <name>GenAiFunction</name>
+    </types>
+    <types>
+        <members>SwiftShip_Tracker</members>
+        <name>Bot</name>
+    </types>
+    <types>
+        <members>std_Abandonment_Score_SwiftShip_Tracker</members>
+        <members>std_Deflection_Score_SwiftShip_Tracker</members>
+        <members>std_Quality_Score_SwiftShip_Tracker</members>
+        <members>std_Session_Notes_SwiftShip_Tracker</members>
+        <name>AiAgentScorerDefinition</name>
+    </types>
+    <types>
+        <members>SwiftShip_Tracker</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Parcel__c</members>
+        <members>Delivery__c</members>
+        <members>Sender__c</members>
+        <members>Receiver__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Parcel__c-Parcel Layout</members>
+        <members>Delivery__c-Delivery Layout</members>
+        <members>Sender__c-Sender Layout</members>
+        <members>Receiver__c-Receiver Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>SwiftShip_Tracker972411420_Permissions</members>
+        <members>Swift_Ship</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>SwiftShip_Tracker_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <version>67.0</version>
+</Package>
